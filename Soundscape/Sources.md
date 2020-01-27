@@ -6,3 +6,9 @@
 
 * **Airport**
     * https://freesound.org/people/digifishmusic/sounds/76351/
+
+* **Office Ambiance**
+    * https://freesound.org/people/Nightwatcher98/sounds/407292/
+
+* **Notification Up 1**
+    * https://freesound.org/people/FoolBoyMedia/sounds/234524/
