@@ -12,3 +12,9 @@
 
 * **Notification Up 1**
     * https://freesound.org/people/FoolBoyMedia/sounds/234524/
+
+* **Phone Vibration**
+    * https://freesound.org/people/JasonElrod/sounds/85439/
+
+* **Ping Heater**
+    * https://freesound.org/people/MATTIX/sounds/444918/
