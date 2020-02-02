@@ -1,20 +1,10 @@
-# Dilan's Soundscape Repo
+# `Dilan's Soundscape  - 'Conversation With Demetrius'`
 
-For my Soundscape I plan on exploring the audible effect of cell phones and social media have on our everyday relationships. I would use these sounds to exemplify how often we are hearing these sounds on a daily basis and how they can disrupt connections and conversations with the people around you. The soundscape will feature a scattered conversation between two people along with many recognizable sounds and tones.
+For my Soundscape I explored the audible effect of cell phones on conversations. The soundscape will feature a scattered conversation between two people along with many recognizable sounds and tones.
 
-Self-Sourced Sounds:
+This project was created with various sounds from https://freesound.org/ along with self-recorded conversation audio.
 
-* Audio of myself and a friend talking in a public space
-* Background voices of other students
-* Background footsteps
-* Zipping backpacks
-* Picking up/putting down cell phone
-* Phone vibrations
-* Phone text/call tones
+Audacity project and mp3 is located in `Soundscape/`
 
-Sources Sounds:
-
-* Light background music
-* Various social media sounds (Snapchat, instagram, etc.)
-
-## Source information available in Soundscape/Sources.md
+#
+## Source information available in `Soundscape/ASSETS.md`
